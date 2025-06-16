@@ -4,6 +4,6 @@ I've worked with: Scheme(R5RS), racket, C, Java, Assembly, Scala, JavaScript-HTM
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordofhunger&show_icons=true&theme=dracula&hide_border=true)
 
 ---
